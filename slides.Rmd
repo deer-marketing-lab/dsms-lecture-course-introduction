@@ -1,5 +1,5 @@
 ---
-title: "MODULE NAME"
+title: "Course Introduction"
 subtitle: "Digital and Social Media Strategies"
 author: "Lachlan Deer"
 institute: "Tilburg University"
@@ -13,21 +13,574 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
-class: font200
+class: clear 
 
-# Learning Goals for this Week
+background-image: url(https://i1.wp.com/cms.babbel.news/wp-content/uploads/2017/12/Niederlaendisch-hallo-FB1200.png?resize=830%2C467)
 
-TBD
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+---
+class: font180
+
+# Learning Goals for this Class
+
+* Understand the logistical structure of the course
+* Meet your Instructors
+* Develop an understanding what's needed in a Digital Marketer's toolkit
+* Understand the topic coverage in this course
+* Explain how you will be assessed
 
 ---
 class: inverse, center, middle
 
-# Section XX
+# Logistics
 
 ---
-# Slide Title 
+class: font180
+# Class Structure
 
-course content here
+Offline, **in person**
+
+Types of classes: 
+
+1. Lectures 
+2. Computer Labs
+
+---
+class: font160
+# Lectures  
+
+Weekly Lecture Format:
+
+* 2 x 45 mins lectures run back-to-back 
+* Led by Lachlan
+
+Goal of the lectures:
+
+* Introduce new material 
+* Provide perspective on readings 
+* Present a different view than the reading's authors
+
+How to get the most out of them? **read** the papers before attending
+
+---
+# Computer Labs 
+
+4 $\times$ 90-min Computer Labs during the semester 
+
+* Each paired with a Group Assignment 
+  * 3 x assessclass: font160
+ed, 1 x practice 
+
+* Led by Linda 
+* Use these classes to:
+  - Work on the assessment task 
+  - Ask questions / seek clarification
+
+How to get the most out of them? **prepare** before attending
+
+---
+class: font160 
+
+# Where to Find Stuff
+
+* Course Canvas Page is your # 1 resource
+  * All course content posted in Canvas
+
+* Discussion / Chat: Canvas Discussion Forum
+  * First point of call for questions
+
+* Email (if you must): tisem.social.media@gmail.com
+  * *Not* our personal email addresses
+
+* Office Hours
+  * Sign up using links
+  * Check the Syllabus for instructions and links
+
+---
+class: font160
+# Discussion Forums
+
+Two types: 
+
+1. **Peer Support** $\implies$ peer to peer discussion 
+  * Discuss course content, ask questions of peers
+  * Instructors won't participate unless necessary 
+  * Labelled with "P2P"
+2. **Ask the Instructors** 
+  * First point of call to ask *admin* issues 
+  * Expect a response within 3 working days
+
+Adhere to the Code of Conduct and Social Rules!
+
+---
+class: font130
+
+# Textbooks & Readings
+
+* **No Textbook** for the class
+  * Become outdated fast as the digital space changes rapidly
+  * Some emphasise too much of the hype, remainder are too dry
+  * I do like Aral's *'Hype Machine'* though ... but its audience is not quite this class
+
+* **My job**: filter through the sea of information and teach what is useful and relevant
+  * No hype, hopefully not too dry
+
+* **Your job**: read over assigned papers & articles, learn the skills
+  * I've curated course content to (hopefully) deliver the most insight with the least technical details
+  * Readings shouldn't be 'hype', occasionally dry
+  * Skills acquired should be easy to transfer to a different problem
+
+* Lecture slides will be on Canvas as PDFs before the lecture
+
+---
+class: font140
+
+# Things to Keep in Mind
+
+* This course is **very new**
+  * We look at *current* *knowledge*
+  * There will likely be bugs ...
+  * ... We'll work through them together
+
+* Mix of students at various levels, from various backgrounds
+  * Learn from other's unique perspectives
+
+* I (awkwardly) straddle the line between marketing & economics
+  * I care about 'mechanisms' and explaining why things happen
+  * I care about more than only the 4P's
+  * $\implies$ pragmatism towards analysis that answers interesting questions
+
+---
+class: inverse, center, middle
+
+# Meet the Instructors
+
+---
+class: font160
+# Lachlan: Background 
+
+* Born and raised in Australia 
+
+* **New-ish to the Netherlands**: second year here 
+  * Currently live in Rotterdam
+  * Journey to the the Netherlands: London $\rightarrow$ Zurich $\rightarrow$ the Bay Area $\rightarrow$ Zurich $\rightarrow$ Chicago
+  * Still learning the ins and outs of the Netherlands *and* the university
+    * ... am slowly exploring cities outside of Rotterdam
+
+* Now: Assistant Prof @ Tilburg University  
+
+---
+class: font140
+# Lachlan: Areas of Expertise
+
+* **Substantive:**
+  - Quantifying the impact of Twitter on demand for new products (Movies)
+  - Quantifying relationship between advertising and social media discussions
+  - Estimating the effect of relaxing TV advertising minutes restrictions on TV channel revenues
+  - Understanding the role of Social Media Networks in Political Revolutions (Arab Spring)
+  
+* **Methods**:
+  - Working with data
+  - Econometrics / statistics
+  - Text-as-data
+
+**Bottom Line:** *analysing digital and social media data to answer economic and marketing questions*
+
+---
+class: font160
+# Lachlan: Areas of Expertise
+
+Why is all this relevant?
+
+* I've used social media data throughout my career
+  * From constructing simple tables and figures to convince firms to update their decisions and strategies
+  * ... to quite elaborate statistical / econometric models
+      * that appeal to other academics
+  
+**I believe in the value of what I am teaching**
+
+---
+class: font160
+# Linda: Background
+
+TBA
+
+---
+class: font160
+# Linda: Interests
+
+TBA
+
+---
+class: inverse, center, middle
+
+# Digital and Social Media Strategy: <br> A possibly biased perspective
+
+---
+class: font150
+#  What is Digital Marketing?
+
+```{r, echo = FALSE, fig.align = "center", out.width="100%"}
+url <- "figs/digital_marketing.png"
+knitr::include_graphics(url)
+```
+
+**Digital Marketing**: Marketing of products or services using digital technologies, mainly on the Internet, but also including mobile phones, display advertising and any other digital medium (Wikipedia)
+
+---
+class: font150
+# What is Social Media Marketing? 
+
+
+```{r, echo = FALSE, fig.align = "center", out.width="60%"}
+url <- "https://qph.cf2.quoracdn.net/main-qimg-ca0128318438b45b30c109f041ea70b6"
+knitr::include_graphics(url)
+```
+
+**Social media marketing** is the process of creating (tailored) content to drive engagement, promote a business and generate revenue.
+
+---
+class: font160
+# Digital Business is New!
+
+```{r, echo = FALSE, fig.align = "center", out.width="100%"}
+url <- "figs/digital_business.png"
+knitr::include_graphics(url)
+```
+
+.center[**This all happened in our lifetime!**]
+
+---
+# Lots Happens in the Digital Space
+
+```{r, echo = FALSE, fig.align = "center", out.width="60%"}
+url <- "figs/digital_minute.png"
+knitr::include_graphics(url)
+```
+
+.right[
+Source: [DOMO (2020)](https://www.domo.com)
+]
+
+---
+class: font150
+# What is Marketing Strategy? 
+
+```{r, echo = FALSE, fig.align = "center", out.width="80%"}
+url <- "https://xplane.com/wp-content/uploads/2020/04/Strategy2-01-Header.png"
+knitr::include_graphics(url)
+```
+
+**Marketing Strategy** refers to a firm's overall game plan for reaching prospective consumers and turning them into customers of their products or services
+
+---
+class: font160
+# What this class is about!
+
+**Digital and Social Media Strategies**: a game plan for reaching prospective consumers and turning them into customers via digital technologies and social media
+
+Need to propose **strategic questions** that can be answered 
+
+* Can be answered $\implies$ can quantified with a number
+* And the number needs to be credibly constructed ...
+* ... from *correct* statistical analysis of the *right* data
+
+---
+class: font160
+# Data Driven Answers
+
+Good data-driven answers:
+
+* Anchor on a decision to be made and/or a strategic question being asked 
+* Find data for the purpose at hand
+* Start from what is *unknown*
+* **Empowers decision makers**
+
+de Langhe and Puntoni (2020) call this "decision-driven analytics"
+
+---
+class: font160
+# Methods to Analyze Data
+
+3 main ways to analyze data: 
+
+1. **Descriptive Analysis**
+  * For me, this includes Exploratory Analysis
+2. **Causal Analysis** 
+3. **Predictive Analysis** 
+
+---
+class: font160
+# Descriptive Analysis
+
+**Descriptive Analysis**: summarise characteristics of a data set
+
+* What does the data look like?
+  * Means, standard deviations distribution of data
+  * Results are (stylised) *facts*
+
+Examples:
+
+* How are users who discuss a movie connected on Social Media?
+* Is revenue attributed to clicks from Search Engines higher than last week?
+* Has revenue growth from digital stores stayed high after COVID-19?
+
+**We'll need to do some of this**
+
+---
+class: font160
+
+# Causal Analysis
+
+**Causal Analysis**: Does A lead to B?
+  * Might also care about the mechanism of how it happens
+
+Examples:
+
+* Do Search Engine Ads increase product purchases?
+* Does product promotion by influencers increase demand?
+* Do push notifications work? In what way?
+
+**We'll spend a lot of time in this space**
+
+---
+class: font160
+
+# Predictive Analysis
+
+**Predictive Analysis**: How can I best predict an outcome?
+  * When A occurs, so does B
+
+Examples:
+
+* Is a review posted by a real person or by a bot?
+* How many retweets does Nike expect its next tweet to get?
+* Who is most likely to click on a digital ad?
+
+**Not the focus of this class**
+
+* Still matters, but time constraints!
+* Other classes may touch on this
+
+---
+class: font160
+
+# How to Deliver Data Driven Answers?
+
+We want to deliver data driven insights to strategic questions
+
+* Will need develop an analytics toolkit
+  * Mainly statistical, building from existing knowledge 
+
+* Stats backgrounds among students is heterogeneous
+  * Principle: Leave no-one behind
+    * Instructors are here to help catch you up and provide further guidance as needed
+    * $\implies$ work with us, even when it is hard
+    * Be willing to learn from each other, form study groups etc
+
+---
+class: font160
+
+# Good and Bad News ...
+
+**Good news**: high quality data driven solutions are incredibly useful
+
+Why?
+
+* Digital and Social Media impacts a wide variety of industries
+  * Media & entertainment, politics, health care, FMCG, fashion & beauty, etc
+* Digital Markets deliver a deluge of data
+* It provides real answers to real problems in marketing and business strategy
+  * And *people care about the answers*
+
+* Being able to do (good) strategy relevant analytics ensures many (enjoyable) job prospects
+
+---
+class: font160
+
+# Good and Bad News ...
+
+**Bad News**: Its *hard*
+
+* One needs to learn to use the right statistical tools
+* ... **and** be able to work on causal (and predictive) questions
+* ... while understanding the context of the problem at hand
+
+(That seems like *a lot*...)
+
+* And... learning the tools can be boring
+
+**_Opinion_**: I think the upside far, far outweighs the bad.
+
+---
+class: inverse, center, middle
+
+# Where We Are Going
+
+---
+class: font160
+
+# Course Objectives
+
+By the end of this course you will be able to:
+
+1. Explain and evaluate the challenges and opportunities digital markets and social media present marketers
+2. Describe and contrast the core features of major digital marketplaces
+3. Explain and contrast how core marketing concepts apply between online and offline markets
+4. Use simple descriptive and causal statistical techniques to analyse data from digital markets and social media
+5. Interpret the results of one's own and other's statistical analysis.
+6. Analyse statistical results to evaluate potential changes to digital marketing strategies
+
+
+---
+class: font140
+
+# What We Will Cover
+
+**Aim**: Be able to answer imporant strategic questions in the Digital and Social space
+
+Five Main Themes:
+
+1. **Digital Advertising and Search Engine Marketing** (Week 3 - 5)
+2. **Features of Digital Marketplaces** (Weeks 6 - 8)
+3. **User Generated Content** (Weeks 9-11)
+4. **Privacy Regulations and their Impact on Digital Marketing** (Week 12)
+5. **The Dark Side of Digital Markets** (Week 13) 
+
+Week 2? ... a re-introduction to some statistical tools
+
+---
+class: font150
+# Understanding Key Features 
+
+Delivering **good** answers to strategic questions $\implies$ understanding the context 
+
+Context includes:
+
+* What does a given marketplace look like? (who are the actors? what are the rules?)
+* How does the market work? (what decisions? by whom?)
+* How has the market evolved? (is it growing? how much? has this lead to changes? why?)
+* Where is there room to optimize business / consumer decisions strategically?
+
+Lectures will introduce this context across the markets we discuss
+
+---
+class: font150
+# Building an Analytics Toolkit
+
+Delivering **good** _data driven_ answers to strategic questions $\implies$ using the right statistical techniques 
+
+* ANOVA 
+* A/B Tests and Experimentation
+* Linear regression & interpreting the results _carefully_
+
+The 'right' tools can be subjective ...
+
+* We focus on the tools the majority of firms use
+
+---
+class: font150
+# Building an Analytics Toolkit: Software
+
+Weapon of Choice: `R` - purpose built statistical software
+
+* Wide variety of statistical and graphical techniques
+* Can do most analysis marketers need to do
+* It's free and open source, and has a *friendly* user community
+* Extremely useful in the job market and/or graduate study
+
+---
+class: inverse, center, middle
+
+# Assessment
+
+---
+class: font140
+
+# Group Assignments (45%)
+
+* **3** group assignments - **each 15% of final grade**.
+* Group Allocation: random within a Lab Section + changes between assignments
+
+* **Group Assignment 1**: Evaluating an Advertising Experiment
+* **Group Assignment 2**: Measuring the Importance of Search Rankings
+* **Group Assignment 3**: TBA
+
+* Assignment Structure:
+  * Multiple Parts
+  * Each part has multiple exercises
+  * Mix of analytics and interpretation
+  * Goal: walk through solving a strategic problem
+* **Submission via Canvas**
+
+---
+class: font150
+
+# Final Exam (55%)
+
+* Closed Book, Pencil/Pen and Paper
+* 3 hours in length
+
+**Structure**: 
+
+* PART A: True/False/Uncertain with an explanation
+* PART B : Short answer questions
+<!--- * PART C: An open ended / essay style question --->
+
+**Coverage**:
+
+* Everything from lectures, labs, and readings
+
+More details closer to the end of the class ... 
+
+---
+class: font150
+# Topic Reflections (Ungraded)
+
+* Open ended questions that are based on the week's material 
+
+**Essential Notions:**
+
+* Learning by doing/thinking on ones own matters...
+* *Invest your time in these, it will pay off*
+
+**Do not need to submit these**
+
+---
+class: font160
+# Grading
+
+Grades are the outcome of an objective evaluation process 
+
+* **We do not discuss nor negotiate grades**
+  * If you think we made a mistake, file a regrade request via email **within 48 hours of receiving an assignment grade**
+  * Entire assignment is regraded
+* Group Assignment grades will be available 4 weeks after their submission, or coincide with final grade where applicable
+
+---
+class: font160
+# Course Repeaters
+
+This class is totally revised from last year (2021)
+
+You must complete **ALL** assessment pieces this year to pass the course
+
+* We'll ask you to notify us via a Google form if you are repeating the class
+  * Stay tuned for an announcement via Canvas
+
+---
+class:clear
+background-size: contain
+
+background-image: url("figs/qanda.jpeg")
+
+---
+class: clear 
+
+background-image: url("figs/getstarted.png")
 
 ---
 # License & Citation
@@ -35,11 +588,11 @@ course content here
 Suggested Citation:
 
 ```{r, engine='out', eval = FALSE}
-@misc{deerdsms2022,
-      title={"Digital and Social Media Strategies: Lecture Slide Template"},
+@misc{dsms2022_intro,
+      title={"Digital and Social Media Strategies: Course Introduction"},
       author={Lachlan Deer},
       year={2022},
-      url = "https://github.com/tisem-digital-marketing/dsms-lecture-template"
+      url = "https://tisem-digital-marketing.github.io/2022-dsms"
 }
 ```
 
