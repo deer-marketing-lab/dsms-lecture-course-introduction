@@ -72,8 +72,8 @@ class: font160
 4 $\times$ 90-min Computer Labs during the semester 
 
 * Each paired with a Group Assignment 
-  * 3 x assessclass: font160
-ed, 1 x practice 
+  * 3 x assessed
+  * 1 x practice 
 
 * Led by Linda 
 * Use these classes to:
@@ -439,7 +439,7 @@ By the end of this course you will be able to:
 
 
 ---
-class: font140
+class: font150
 
 # What We Will Cover
 
@@ -453,7 +453,10 @@ Five Main Themes:
 4. **Privacy Regulations and their Impact on Digital Marketing** (Week 12)
 5. **The Dark Side of Digital Markets** (Week 13) 
 
-Week 2? ... a re-introduction to some statistical tools
+Week 2? 
+
+* Discuss importance of data & the rise of experimentation
+* And a re-introduction to some statistical tools
 
 ---
 class: font150
@@ -486,10 +489,13 @@ The 'right' tools can be subjective ...
 
 ---
 class: font150
-# Building an Analytics Toolkit: Software
+# Building an Analytics Toolkit
 
-Weapon of Choice: `R` - purpose built statistical software
+**Weapon of Choice**: `R` 
 
+Why? 
+
+* Purpose built statistical software
 * Wide variety of statistical and graphical techniques
 * Can do most analysis marketers need to do
 * It's free and open source, and has a *friendly* user community
