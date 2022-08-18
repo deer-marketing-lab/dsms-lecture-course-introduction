@@ -66,6 +66,7 @@ Goal of the lectures:
 How to get the most out of them? **read** the papers before attending
 
 ---
+class: font160
 # Computer Labs 
 
 4 $\times$ 90-min Computer Labs during the semester 
@@ -204,15 +205,17 @@ Why is all this relevant?
 
 ---
 class: font160
-# Linda: Background
+# Linda
 
-TBA
+**Background:**
 
----
-class: font160
-# Linda: Interests
+* Graduated from Tilburg University, Msc Marketing Management in 2013
+* Worked as marketing employee for a wholesaler
+* Worked as project manager creating  websites and webshops
 
-TBA
+**Interests:**
+
+* Online Marketing, Analytics
 
 ---
 class: inverse, center, middle
