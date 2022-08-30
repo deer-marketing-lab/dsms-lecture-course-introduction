@@ -72,8 +72,8 @@ class: font160
 4 $\times$ 90-min Computer Labs during the semester 
 
 * Each paired with a Group Assignment 
-  * 3 x assessclass: font160
-ed, 1 x practice 
+  * 3 x assessed, 
+  * 1 x practice 
 
 * Led by Linda 
 * Use these classes to:
@@ -93,7 +93,7 @@ class: font160
 * Discussion / Chat: Canvas Discussion Forum
   * First point of call for questions
 
-* Email (if you must): tisem.social.media@gmail.com
+* Email (if you must): tisem.dsms@gmail.com
   * *Not* our personal email addresses
 
 * Office Hours
@@ -443,7 +443,7 @@ class: font140
 
 # What We Will Cover
 
-**Aim**: Be able to answer imporant strategic questions in the Digital and Social space
+**Aim**: Be able to answer important strategic questions in the Digital and Social space
 
 Five Main Themes:
 
