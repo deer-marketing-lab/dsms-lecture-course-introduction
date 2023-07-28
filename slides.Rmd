@@ -26,10 +26,10 @@ class: font180
 
 # Learning Goals for this Class
 
-* Understand the logistical structure of the course
 * Meet your Instructors
-* Develop an understanding what's needed in a Digital Marketer's toolkit
-* Understand the topic coverage in this course
+* Describe the logistical structure of the course
+* Explain what's needed in a modern Digital Marketer's toolkit
+* List the topic coverage in this course
 * Explain how you will be assessed
 
 ---
@@ -536,7 +536,7 @@ class: font150
 
 **Structure**: 
 
-* PART A: True/False/Uncertain with an explanation
+* PART A: Multiple Choice Questions
 * PART B : Short answer questions
 <!--- * PART C: An open ended / essay style question --->
 
