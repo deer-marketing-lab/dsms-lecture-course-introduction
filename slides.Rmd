@@ -33,195 +33,9 @@ class: font180
 * Explain how you will be assessed
 
 ---
-class: inverse, center, middle
+class: inverse, center, middle 
 
-# Logistics
-
----
-class: font180
-# Class Structure
-
-Offline, **in person**
-
-Types of classes: 
-
-1. Lectures 
-2. Computer Labs
-
----
-class: font160
-# Lectures  
-
-Weekly Lecture Format:
-
-* 2 x 45 mins lectures run back-to-back 
-* Led by Lachlan
-
-Goal of the lectures:
-
-* Introduce new material 
-* Provide perspective on readings 
-* Present a different view than the reading's authors
-
-How to get the most out of them? **read** the papers before attending
-
----
-class: font160
-# Computer Labs 
-
-4 $\times$ 90-min Computer Labs during the semester 
-
-* Each paired with a Group Assignment 
-
-  * 3 x assessed, 
-  * 1 x practice 
-
-* Led by Linda 
-* Use these classes to:
-  - Work on the assessment task 
-  - Ask questions / seek clarification
-
-How to get the most out of them? **prepare** before attending
-
----
-class: font160 
-
-# Where to Find Stuff
-
-* Course Canvas Page is your # 1 resource
-  * All course content posted in Canvas
-
-* Discussion / Chat: Canvas Discussion Forum
-  * First point of call for questions
-
-* Email (if you must): tisem.dsms@gmail.com
-  * *Not* our personal email addresses
-
-* Office Hours
-  * Sign up using links
-  * Check the Syllabus for instructions and links
-
----
-class: font160
-# Discussion Forums
-
-Two types: 
-
-1. **Peer Support** $\implies$ peer to peer discussion 
-  * Discuss course content, ask questions of peers
-  * Instructors won't participate unless necessary 
-  * Labelled with "P2P"
-2. **Ask the Instructors** 
-  * First point of call to ask *admin* issues 
-  * Expect a response within 3 working days
-
-Adhere to the Code of Conduct and Social Rules!
-
----
-class: font130
-
-# Textbooks & Readings
-
-* **No Textbook** for the class
-  * Become outdated fast as the digital space changes rapidly
-  * Some emphasise too much of the hype, remainder are too dry
-  * I do like Aral's *'Hype Machine'* though ... but its audience is not quite this class
-
-* **My job**: filter through the sea of information and teach what is useful and relevant
-  * No hype, hopefully not too dry
-
-* **Your job**: read over assigned papers & articles, learn the skills
-  * I've curated course content to (hopefully) deliver the most insight with the least technical details
-  * Readings shouldn't be 'hype', occasionally dry
-  * Skills acquired should be easy to transfer to a different problem
-
-* Lecture slides will be on Canvas as PDFs before the lecture
-
----
-class: font140
-
-# Things to Keep in Mind
-
-* This course is **very new**
-  * We look at *current* *knowledge*
-  * There will likely be bugs ...
-  * ... We'll work through them together
-
-* Mix of students at various levels, from various backgrounds
-  * Learn from other's unique perspectives
-
-* I (awkwardly) straddle the line between marketing & economics
-  * I care about 'mechanisms' and explaining why things happen
-  * I care about more than only the 4P's
-  * $\implies$ pragmatism towards analysis that answers interesting questions
-
----
-class: inverse, center, middle
-
-# Meet the Instructors
-
----
-class: font160
-# Lachlan: Background 
-
-* Born and raised in Australia 
-
-* **New-ish to the Netherlands**: second year here 
-  * Currently live in Rotterdam
-  * Journey to the the Netherlands: London $\rightarrow$ Zurich $\rightarrow$ the Bay Area $\rightarrow$ Zurich $\rightarrow$ Chicago
-  * Still learning the ins and outs of the Netherlands *and* the university
-    * ... am slowly exploring cities outside of Rotterdam
-
-* Now: Assistant Prof @ Tilburg University  
-
----
-class: font140
-# Lachlan: Areas of Expertise
-
-* **Substantive:**
-  - Quantifying the impact of Twitter on demand for new products (Movies)
-  - Quantifying relationship between advertising and social media discussions
-  - Estimating the effect of relaxing TV advertising minutes restrictions on TV channel revenues
-  - Understanding the role of Social Media Networks in Political Revolutions (Arab Spring)
-  
-* **Methods**:
-  - Working with data
-  - Econometrics / statistics
-  - Text-as-data
-
-**Bottom Line:** *analysing digital and social media data to answer economic and marketing questions*
-
----
-class: font160
-# Lachlan: Areas of Expertise
-
-Why is all this relevant?
-
-* I've used social media data throughout my career
-  * From constructing simple tables and figures to convince firms to update their decisions and strategies
-  * ... to quite elaborate statistical / econometric models
-      * that appeal to other academics
-  
-**I believe in the value of what I am teaching**
-
----
-class: font160
-# Linda
-
-**Background:**
-
-* Graduated from Tilburg University, Msc Marketing Management in 2013
-* Worked as marketing employee for a wholesaler
-* Worked as project manager creating  websites and webshops
-
-**Interests:**
-
-* Online Marketing, Analytics
-
----
-class: inverse, center, middle
-
-# Digital and Social Media Strategy: <br> A possibly biased perspective
+# A Quick Intro to Digital Marketing
 
 ---
 class: font150
@@ -240,11 +54,614 @@ class: font150
 
 
 ```{r, echo = FALSE, fig.align = "center", out.width="60%"}
-url <- "https://qph.cf2.quoracdn.net/main-qimg-ca0128318438b45b30c109f041ea70b6"
+url <- "https://cwpwp2.betterthanpaper.com/wp-content/uploads/2019/05/social-media-marketing.png"
 knitr::include_graphics(url)
 ```
 
 **Social media marketing** is the process of creating (tailored) content to drive engagement, promote a business and generate revenue.
+
+---
+class: font150
+# What is Marketing Strategy? 
+
+```{r, echo = FALSE, fig.align = "center", out.width="80%"}
+url <- "https://xplane.com/wp-content/uploads/2020/04/Strategy2-01-Header.png"
+knitr::include_graphics(url)
+```
+
+**Marketing Strategy** refers to a firm's overall game plan for reaching reaching and engaging with consumers
+
+---
+class: font140
+# What this class is about
+
+
+```{r, echo = FALSE, fig.align = "center", out.width="40%"}
+url <- "https://profusp.com/wp-content/uploads/2021/07/Digital-Analytics.png"
+knitr::include_graphics(url)
+```
+
+**Digital and Social Media Strategies**: understanding how to reach and engage with consumers via digital technologies and social media
+
+Managers propose **strategic questions** that need to be answered 
+
+* Need be answered $\implies$ can **quantified with a number**
+* And the number needs to be **credibly constructed** ...
+* ... from **correct statistical analysis** of the **right data**
+
+$\implies$ this course has a *substantial* quantitative component
+
+---
+class: inverse, center, middle
+
+# Meet the Instructors
+
+---
+class: font160
+# Who we are
+
+<table>
+  <tr>
+    <td> <img src="https://lachlandeer.github.io/author/lachlan-deer/avatar_hu883af723293e9aa444f88a6ed2cae9d0_56212_270x270_fill_q90_lanczos_center.jpg"  alt="1" width = 120px height = 120px ></td>
+
+    <td><b>Lachlan</b> Deer</td>
+   </tr> 
+   <tr>
+      <td><img src="https://www.tilburguniversity.edu/sites/default/files/styles/speaker_160x160/public/profile_pictures/2022-10/1662457612752.jpeg?h=1fac250b&itok=AuCnAj-g" alt="3" width = 120px height = 120px></td>
+
+      <td><b>Doga</b> Bayraktar</td>
+  </td>
+  </tr>
+  <tr>
+      <td><img src="figs/qanda.jpeg" alt="3" width = 120px height = 120px></td>
+
+      <td><b>Roshini</b> Sudhahran</td>
+  </td>
+  </tr>
+</table>
+
+
+---
+class: font140
+# Lachlan: Background 
+
+```{r, echo = FALSE, fig.align = "center", out.width="20%"}
+url <- "https://lachlandeer.github.io/author/lachlan-deer/avatar_hu883af723293e9aa444f88a6ed2cae9d0_56212_270x270_fill_q90_lanczos_center.jpg"
+knitr::include_graphics(url)
+```
+
+
+* Born and raised in Australia 
+
+* **New-ish to the Netherlands**: third year here 
+  * Currently live in Rotterdam
+  * Journey to the the Netherlands: London $\rightarrow$ Zurich $\rightarrow$ the Bay Area $\rightarrow$ Zurich $\rightarrow$ Chicago
+  * Still learning the ins and outs of the Netherlands *and* the university
+
+* Now: Assistant Prof @ Tilburg University  
+
+---
+class: font140
+# Lachlan: Areas of Expertise
+
+* **Substantive:**
+  - Quantifying the impact of Twitter on demand for new products
+  - Quantifying relationship between advertising and social media discussions
+  - Estimating the effect of relaxing TV advertising restrictions on TV channel revenues
+  - Examining the role of Social Media Networks in Political Revolutions
+  
+* **Methods**:
+  - Working with data
+  - Statistics ("fancy" regression models)
+  - Unstructured data: text, networks, video
+
+**Bottom Line:** *analysing digital and social media data to answer marketing questions*
+
+---
+class: font160
+# Lachlan: Areas of Expertise
+
+Why is all this relevant?
+
+* I've used digital marketing data throughout my career
+  * From constructing simple tables and figures to convince firms to update their decisions and strategies
+  * ... to quite elaborate statistical / econometric models
+      * that appeal to other academics
+  
+.center[**I believe in the value of what I am teaching**]
+
+---
+class: font160
+# Doga
+
+```{r, echo = FALSE, fig.align = "center", out.width="20%"}
+url <- "https://www.tilburguniversity.edu/sites/default/files/styles/speaker_160x160/public/profile_pictures/2022-10/1662457612752.jpeg?h=1fac250b&itok=AuCnAj-g"
+knitr::include_graphics(url)
+```
+
+**Background:**
+
+* TBA
+
+**Interests:**
+
+* TBA
+
+
+---
+class: font160
+# Roshini
+
+```{r, echo = FALSE, fig.align = "center", out.width="20%"}
+url <- "figs/qanda.jpeg"
+knitr::include_graphics(url)
+```
+
+**Background:**
+
+* TBA
+
+**Interests:**
+
+* TBA
+
+---
+class: inverse, center, middle
+
+# Logistics
+
+---
+class: font180
+# Class Structure
+
+```{r, echo = FALSE, fig.align = "center", out.width="50%"}
+url <- "figs/inperson.png"
+knitr::include_graphics(url)
+```
+
+Offline, **in person**
+
+Types of classes: 
+
+1. Lectures 
+2. Computer Labs
+
+---
+class: font140
+# Lectures  
+
+```{r, echo = FALSE, fig.align = "center", out.width="35%"}
+url <- "https://polimdo.ac.id/wp-content/uploads/2022/03/kisspng-lecture-clip-art-5ada0a0e3d7959.1665428415242388622518.png"
+knitr::include_graphics(url)
+```
+
+**Weekly Lecture Format:**
+
+* 2 x 45 mins lectures run back-to-back 
+* Led by Lachlan
+
+**Goal of the lectures:**
+
+* Introduce new material 
+* Provide perspective on readings 
+* Present a different view than the reading's authors
+
+---
+class: font160
+# Lectures 
+
+
+```{r, echo = FALSE, fig.align = "center", out.width="35%"}
+url <- "http://www.goalstosky.com/img/hi-student-img.png"
+knitr::include_graphics(url)
+```
+
+How to get the most out of lectures? 
+
+* **Read** the papers before attending
+* **Ask questions** during class 
+* **Interact with me** when I ask questions
+* **Take your own notes** where necessary
+
+---
+class: font160
+# Lectures 
+
+The way I teach may be different than what you are used to 
+
+* **Research based** evidence
+* **Narrow focus with depth** rather than "wide and shallow"
+
+When we read and discuss papers:
+
+* Introduce broad background
+* Outline a business and/or policy problem 
+* Discuss data and/or modelling techniques 
+* Interpret results of particular papers 
+* Draw managerial or policy implications
+
+---
+class: font160
+# Lectures 
+
+The way I teach may be different than what you are used to 
+
+* **Research based** evidence
+* **Narrow focus with depth** rather than "wide and shallow"
+
+When we introduce new tools / modelling strategies:
+
+* Outline what the tool is 
+* Explain how it works 
+* Demonstrate via an example
+* Highlight any limitations
+
+---
+class: font140
+# Computer Labs 
+
+```{r, echo = FALSE, fig.align = "center", out.width="35%"}
+url <- "https://content.presentermedia.com/files/clipart/00009000/9003/computer_lab_800_wht.jpg"
+knitr::include_graphics(url)
+```
+
+**7 $\times$ 90-min Computer Labs** during the semester
+
+* Led by Doga and Roshini
+* Use these classes to:
+  - Learn the quantitative techniques 
+  - Work on the assessment task 
+  - Ask questions / seek clarification
+
+
+---
+class: font160
+# Computer Labs 
+
+```{r, echo = FALSE, fig.align = "center", out.width="35%"}
+url <- "figs/team-work.png"
+knitr::include_graphics(url)
+```
+
+How to get the most value out of labs? 
+
+* **Prepare** before attending
+* **Ask** questions in class
+* **Work together** with your peers 
+
+How to enroll in labs? 
+
+*  **On Canvas** 
+* Deadline is XXX
+
+
+---
+class: font160 
+# Computer Lab Agenda 
+
+
+```{r, echo = FALSE, fig.align = "center", out.width="35%"}
+url <- "figs/computer-lab-clip-art.png"
+knitr::include_graphics(url)
+```
+
+* **Computer Lab 1**: Introduction to R 
+* **Computer Lab 2**: Analyzing Data from Experiments & Regression Analysis 
+* **Computer Lab 3**: Practice Group Assignment
+* **Computer Lab 4**: Group Assignment 1 
+* **Computer Lab 5**: Group Assignment 2
+* **Computer Lab 6**: Improving your writing & TBD 
+* **Computer Lab 7**: Group Assignment 3 
+
+.font70[See course syllabus for schedule linking labs to course weeks]
+
+---
+class: font160
+# The Recordings Question 
+
+```{r, echo = FALSE, fig.align = "center", out.width="50%"}
+url <- "figs/no-recording.png"
+knitr::include_graphics(url)
+```
+
+.center[.middle[**There are no recordings of lectures or computer labs**]] 
+
+---
+class: font160 
+
+# Where to Find Stuff
+
+* Course Canvas Page is your # 1 resource
+  * All course content posted in Canvas
+
+* Discussion / Chat: Canvas Discussion Forum
+  * First point of call for questions
+
+* Email (if you must): tisem.dsms@gmail.com
+  * *Not* our personal email addresses
+  * **Use Canvas Discussion Forum by default** 
+
+* Office Hours
+  * Sign up using links in syllabus
+
+---
+class: font140
+# Communication: Discussion Forums
+
+
+```{r, echo = FALSE, fig.align = "center", out.width="30%"}
+url <- "https://isit.arts.ubc.ca/wp-content/blogs.dir/47/files/sites/13/2019/03/Canvas-Discussions.png"
+knitr::include_graphics(url)
+```
+
+Two types: 
+
+1. **Peer Support** $\implies$ peer to peer discussion 
+  * Discuss course content with peers
+  * Instructors won't participate unless necessary 
+2. **Ask the Instructors** 
+  * First point of call to ask *admin* questions 
+  * Expect a response within 3 working days
+
+Adhere to the Code of Conduct and Social Rules!
+
+---
+class: font140
+# Working with Peers
+
+```{r, echo = FALSE, fig.align = "center", out.width="25%"}
+url <- "figs/team-work-human-behavior.png"
+knitr::include_graphics(url)
+```
+
+.center[**Throughout the course you will work in randomly assigned teams**] 
+
+Tips for success:
+
+* Set "expectations" early -- course standards are the minimum
+* Everyone has different skills they are good at, utilize this (but don't abuse it!)
+* Important communication via email/Canvas Groups rather than WhatsApp/Signal etc
+* Plan to be done in advance of deadlines
+* Don't be silent
+
+---
+class: font130
+
+# Textbooks & Readings
+
+* **No Textbook** for the class
+  * Become outdated fast as the digital space changes rapidly
+  * Some emphasise too much of the hype, remainder are too dry
+  * I do like Aral's *'Hype Machine'* though ... but its audience is not quite this class
+
+* **Our job**: filter through the sea of information and teach what is useful and relevant
+  * No hype, hopefully not too dry
+
+* **Your job**: read over assigned papers & articles, learn the skills
+  * We've curated course content to (hopefully) deliver the most insight with the least technical details
+  * Readings shouldn't be 'hype', occasionally dry
+  * Skills acquired should be easy to transfer to a different problem
+
+* Course content will be on Canvas as PDFs before class
+
+---
+class: inverse, center, middle
+# Where We Are Going
+
+---
+class: font160
+
+# Course Objectives
+
+By the end of this course you will be able to:
+
+1. Explain and evaluate the challenges and opportunities digital markets and social media present marketers
+2. Describe and contrast the core features of major digital marketplaces
+3. Explain and contrast how core marketing concepts apply between online and offline markets
+4. Use simple descriptive and causal statistical techniques to analyse data from digital markets and social media
+5. Interpret the results of one's own and other's statistical analysis.
+6. Analyse statistical results to evaluate potential changes to digital marketing strategies
+
+
+---
+class: font140
+
+# What We Will Cover
+
+
+```{r, echo = FALSE, fig.align = "center", out.width="20%"}
+url <- "http://www.clipartbest.com/cliparts/Kcj/o7A/Kcjo7A6ni.jpeg"
+knitr::include_graphics(url)
+```
+
+**Aim**: Be able to answer important strategic questions in the Digital and Social space
+
+Main Themes:
+
+1. **Classical Approaches to Measuring Advertising Effects** (Week 2 - 3)
+2. **Modern Evaluation of Digital Advertising Effects** (Weeks 4 - 6)
+2. **User Generated Content & Social Media** (Weeks 7 - 10)
+3. **Email & Mobile Marketing** (Weeks 11 - 12)
+4. **Issues in (Massive) Online Marketplaces** (Week 13 - 14)
+5. **Impact of Privacy Regulations** (Week 15) 
+
+---
+class: font140
+# Building an Analytics Toolkit
+
+```{r, echo = FALSE, fig.align = "center", out.width="20%"}
+url <- "figs/toolkit.png"
+knitr::include_graphics(url)
+```
+
+Delivering **good** _data driven_ answers to strategic questions $\implies$ using the right statistical techniques 
+
+* ANOVA 
+* A/B Tests and Experimentation
+* Linear regression 
+* Interpreting the results _carefully_
+
+The 'right' tools can be subjective ...
+
+* We focus on the tools that underpin what the majority of (tech) firms use
+
+---
+class: font150
+# Building an Analytics Toolkit
+
+```{r, echo = FALSE, fig.align = "center", out.width="40%"}
+url <- "figs/thinking.png"
+knitr::include_graphics(url)
+```
+
+We assume you have a solid understanding of "intro stats" before taking this class 
+
+* If you don't, re-think your decision to enroll this year
+* OR put in the effort to acquire these skills in your own time
+
+---
+class: font150
+# Building an Analytics Toolkit with R
+
+```{r, echo = FALSE, fig.align = "center", out.width="30%"}
+url <- "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1920px-R_logo.svg.png"
+knitr::include_graphics(url)
+```
+
+Why? 
+
+* Purpose built statistical software
+* Wide variety of statistical and graphical techniques
+* Can do most analysis marketers need to do
+* It's free and open source, and has a *friendly* user community
+* Extremely useful in the job market and/or graduate study
+
+
+
+---
+class: font140
+
+# Things to Keep in Mind
+
+* This course is **very new** and **evolving**
+  * We look at *current* *knowledge*
+  * There will likely be bugs ...
+  * ... We'll work through them together
+
+* Mix of students at various levels, from various backgrounds
+  * Learn from other's unique perspectives
+
+* I (awkwardly) straddle the line between marketing & economics
+  * I care about 'mechanisms' and explaining why things happen
+  * I care about more than only the 4P's
+  * $\implies$ pragmatism towards analysis that answers interesting questions
+
+
+---
+class: inverse, center, middle
+
+# Assessment
+
+---
+class: font140
+
+# Group Assignments (45%)
+
+* **3** group assignments - **each 15% of final grade**.
+* Group Allocation: random within a Lab Section + changes between assignments
+
+* **Group Assignment 1**: Evaluating an Advertising Experiment
+* **Group Assignment 2**: Impact of Regulating Influencers
+* **Group Assignment 3**: Measuring the Importance of Search Rankings
+
+* Assignment Structure:
+  * Multiple Parts
+  * Each part has multiple exercises
+  * Mix of analytics and interpretation
+  * Goal: walk through solving a strategic problem
+* **Submission via Canvas**
+
+---
+class: font150
+
+# Final Exam (55%)
+
+* Closed Book, Pencil/Pen and Paper
+* 3 hours in length
+
+**Structure**: 
+
+* PART A: Multiple Choice Questions
+* PART B: Short answer questions
+  * Part B.1: Questions from course content
+  * Part B.2: Mini Case Study
+<!--- * PART C: An open ended / essay style question --->
+
+**Coverage**:
+
+* Everything from lectures, labs, and readings
+
+**Mock Exam**: Provided closer to the exam date
+
+---
+class: font150
+# Review Questions (Ungraded)
+
+* Open ended questions that are based on the course material
+  * 3 sets, ditributed during the semester 
+
+Essential Notions:
+
+* Learning by doing/thinking on ones own matters...
+* *Invest your time, it will pay off*
+* No "answer guide", everything's in the teaching material
+
+**Do not need to submit these**
+
+---
+class: font150
+# Grading
+
+Grades are the outcome of an objective evaluation process 
+
+* **We do not discuss nor negotiate grades**
+
+* If you think we made a mistake in the group assignments, file a regrade request via email *within 48 hours* of receiving an assignment grade
+  * Entire assignment is regraded
+
+* Group Assignment grades will be available 4 weeks after their submission, or coincide with final grade where applicable
+
+* You can view your final exam, and request a regrade
+  * We regrade the entire exam 
+  * Further info made available closer to the end of the course
+
+---
+class: font160
+# Course Repeaters
+
+This class is very new (2022 was the first version "as-is")
+
+* **If you did not complete the class in 2022**:
+  * Can roll over ALL assignment grades and only sit the exam
+    * Email the course email address by XX if you want this applied 
+  * OR Can do all assessment tasks in 2023. 
+
+* **If you did not complete the class before 2022**:
+  * Must submit all assessment pieces in 2023
+
+* We'll ask you to notify us via a Google form if you are repeating the class
+  * Stay tuned for an announcement via Canvas
+
+---
+class:clear
+background-size: contain
+
+background-image: url("figs/qanda.jpeg")
+
+---
+class: inverse, center, middle
+
+# Modern Digital Marketer's Toolkit: <br> A possibly biased perspective
 
 ---
 class: font160
@@ -269,41 +686,35 @@ knitr::include_graphics(url)
 Source: [DOMO (2020)](https://www.domo.com)
 ]
 
+
 ---
-class: font150
-# What is Marketing Strategy? 
+# The Data Deluge
 
 ```{r, echo = FALSE, fig.align = "center", out.width="80%"}
-url <- "https://xplane.com/wp-content/uploads/2020/04/Strategy2-01-Header.png"
+url <- "https://www.economist.com/sites/default/files/images/articles/migrated/201009LDD001.jpg"
 knitr::include_graphics(url)
 ```
 
-**Marketing Strategy** refers to a firm's overall game plan for reaching prospective consumers and turning them into customers of their products or services
+.right[
+Source: [the Economist (2010)](https://www.economist.com/leaders/2010/02/25/the-data-deluge)
+]
+
 
 ---
-class: font160
-# What this class is about!
+class: font150
+# "New" Data Driven Marketing
 
-**Digital and Social Media Strategies**: a game plan for reaching prospective consumers and turning them into customers via digital technologies and social media
+| "Traditional" Data Driven Marketing | Gold Standard Data Driven Marketing        |
+|-------------------------------------|--------------------------------------------|
+| Anchor on data that is available    | Anchor on a decision that needs to be made |
+| Finds a purpose for data            | Finds data for a purpose                   |
+| Starts from what is known           | Start from what is unknown                 |
+| Empowers data analysts/scientists   | Empowers decision making                   |
 
-Need to propose **strategic questions** that can be answered 
+.font50[adapted from De Lange and Putoni (2020)]
 
-* Can be answered $\implies$ can quantified with a number
-* And the number needs to be credibly constructed ...
-* ... from *correct* statistical analysis of the *right* data
 
----
-class: font160
-# Data Driven Answers
-
-Good data-driven answers:
-
-* Anchor on a decision to be made and/or a strategic question being asked 
-* Find data for the purpose at hand
-* Start from what is *unknown*
-* **Empowers decision makers**
-
-de Langhe and Puntoni (2020) call this "decision-driven analytics"
+Course Goal: **Equip you with the skills and knowledge** to be(come) the **"Gold Standard" marketing analyst** at your (next) job
 
 ---
 class: font160
@@ -350,6 +761,43 @@ Examples:
 
 **We'll spend a lot of time in this space**
 
+
+---
+class: font150
+# Causal Data Driven Marketing
+
+> What is the impact of an marketing intervention (X) on an outcome (Y)
+
+1. Hard to evaluate
+2. Need to compute counterfactuals
+3. Challenge: same person cannot both get treatment and not get treatment
+
+We'll get back to these issues often so don't worry if this sounds complicated right now
+
+---
+# Correlation vs Causation 
+
+```{r, echo = FALSE, fig.align = "center", out.width="80%"}
+url <- "https://i.natgeofe.com/n/c7b6976e-ffbb-4d27-bad9-68332f9e289c/chart-copy_16x9.jpeg?w=636&h=358"
+knitr::include_graphics(url)
+```
+
+.right[
+Source: [National Geographic (2015)](https://www.nationalgeographic.com/science/article/nick-cage-movies-vs-drownings-and-more-strange-but-spurious-correlations)
+]
+
+---
+# Correlation vs Causation 
+
+```{r, echo = FALSE, fig.align = "center", out.width="80%"}
+url <- "https://imgs.xkcd.com/comics/correlation.png"
+knitr::include_graphics(url)
+```
+
+.right[
+Source: [Xkcd (undated)](https://xkcd.com/552/)
+]
+
 ---
 class: font160
 
@@ -368,22 +816,6 @@ Examples:
 
 * Still matters, but time constraints!
 * Other classes may touch on this
-
----
-class: font160
-
-# How to Deliver Data Driven Answers?
-
-We want to deliver data driven insights to strategic questions
-
-* Will need develop an analytics toolkit
-  * Mainly statistical, building from existing knowledge 
-
-* Stats backgrounds among students is heterogeneous
-  * Principle: Leave no-one behind
-    * Instructors are here to help catch you up and provide further guidance as needed
-    * $\implies$ work with us, even when it is hard
-    * Be willing to learn from each other, form study groups etc
 
 ---
 class: font160
@@ -420,168 +852,6 @@ class: font160
 **_Opinion_**: I think the upside far, far outweighs the bad.
 
 ---
-class: inverse, center, middle
-
-# Where We Are Going
-
----
-class: font160
-
-# Course Objectives
-
-By the end of this course you will be able to:
-
-1. Explain and evaluate the challenges and opportunities digital markets and social media present marketers
-2. Describe and contrast the core features of major digital marketplaces
-3. Explain and contrast how core marketing concepts apply between online and offline markets
-4. Use simple descriptive and causal statistical techniques to analyse data from digital markets and social media
-5. Interpret the results of one's own and other's statistical analysis.
-6. Analyse statistical results to evaluate potential changes to digital marketing strategies
-
-
----
-class: font150
-
-# What We Will Cover
-
-**Aim**: Be able to answer important strategic questions in the Digital and Social space
-
-Five Main Themes:
-
-1. **Digital Advertising and Search Engine Marketing** (Week 3 - 5)
-2. **Features of Digital Marketplaces** (Weeks 6 - 8)
-3. **User Generated Content** (Weeks 9-11)
-4. **Privacy Regulations and their Impact on Digital Marketing** (Week 12)
-5. **The Dark Side of Digital Markets** (Week 13) 
-
-Week 2? 
-
-* Discuss importance of data & the rise of experimentation
-* And a re-introduction to some statistical tools
-
----
-class: font150
-# Understanding Key Features 
-
-Delivering **good** answers to strategic questions $\implies$ understanding the context 
-
-Context includes:
-
-* What does a given marketplace look like? (who are the actors? what are the rules?)
-* How does the market work? (what decisions? by whom?)
-* How has the market evolved? (is it growing? how much? has this lead to changes? why?)
-* Where is there room to optimize business / consumer decisions strategically?
-
-Lectures will introduce this context across the markets we discuss
-
----
-class: font150
-# Building an Analytics Toolkit
-
-Delivering **good** _data driven_ answers to strategic questions $\implies$ using the right statistical techniques 
-
-* ANOVA 
-* A/B Tests and Experimentation
-* Linear regression & interpreting the results _carefully_
-
-The 'right' tools can be subjective ...
-
-* We focus on the tools the majority of firms use
-
----
-class: font150
-# Building an Analytics Toolkit
-
-**Weapon of Choice**: `R` 
-
-Why? 
-
-* Purpose built statistical software
-* Wide variety of statistical and graphical techniques
-* Can do most analysis marketers need to do
-* It's free and open source, and has a *friendly* user community
-* Extremely useful in the job market and/or graduate study
-
----
-class: inverse, center, middle
-
-# Assessment
-
----
-class: font140
-
-# Group Assignments (45%)
-
-* **3** group assignments - **each 15% of final grade**.
-* Group Allocation: random within a Lab Section + changes between assignments
-
-* **Group Assignment 1**: Evaluating an Advertising Experiment
-* **Group Assignment 2**: Measuring the Importance of Search Rankings
-* **Group Assignment 3**: TBA
-
-* Assignment Structure:
-  * Multiple Parts
-  * Each part has multiple exercises
-  * Mix of analytics and interpretation
-  * Goal: walk through solving a strategic problem
-* **Submission via Canvas**
-
----
-class: font150
-
-# Final Exam (55%)
-
-* Closed Book, Pencil/Pen and Paper
-* 3 hours in length
-
-**Structure**: 
-
-* PART A: Multiple Choice Questions
-* PART B : Short answer questions
-<!--- * PART C: An open ended / essay style question --->
-
-**Coverage**:
-
-* Everything from lectures, labs, and readings
-
-More details closer to the end of the class ... 
-
----
-class: font150
-# Topic Reflections (Ungraded)
-
-* Open ended questions that are based on the week's material 
-
-**Essential Notions:**
-
-* Learning by doing/thinking on ones own matters...
-* *Invest your time in these, it will pay off*
-
-**Do not need to submit these**
-
----
-class: font160
-# Grading
-
-Grades are the outcome of an objective evaluation process 
-
-* **We do not discuss nor negotiate grades**
-  * If you think we made a mistake, file a regrade request via email **within 48 hours of receiving an assignment grade**
-  * Entire assignment is regraded
-* Group Assignment grades will be available 4 weeks after their submission, or coincide with final grade where applicable
-
----
-class: font160
-# Course Repeaters
-
-This class is totally revised from last year (2021)
-
-You must complete **ALL** assessment pieces this year to pass the course
-
-* We'll ask you to notify us via a Google form if you are repeating the class
-  * Stay tuned for an announcement via Canvas
-
----
 class:clear
 background-size: contain
 
@@ -598,11 +868,10 @@ background-image: url("figs/getstarted.png")
 Suggested Citation:
 
 ```{r, engine='out', eval = FALSE}
-@misc{dsms2022_intro,
+@misc{dsms2023_intro,
       title={"Digital and Social Media Strategies: Course Introduction"},
       author={Lachlan Deer},
-      year={2022},
-      url = "https://tisem-digital-marketing.github.io/2022-dsms"
+      year={2023}
 }
 ```
 
