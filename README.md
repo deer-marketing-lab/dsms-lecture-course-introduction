@@ -7,13 +7,23 @@
 ## Meta-Information
 
 * Module Maintainer: Lachlan Deer (`@lachlandeer`)
-* Course: [Digital and Social Media Strategies](https://tisem-digital-marketing.github.io/dsms)
+* Course: [Digital and Social Media Strategies](https://github.com/deer-marketing-lab/dsms)
 * Institute: Dept of Marketing, Tilburg University
-* Current Version: [2022 edition](https://github.com/tisem-digital-marketing/2021-fall)
+* Current Version: [2023 edition](https://github.com/deer-marketing-lab/dsms-uvt-2023)
 
 ## Introduction
 
 Slides for the Lecture 1 of Digital and Social Media Strategies
+
+Topic Coverage: 
+
+- [ ] Quick Definition of Digital Marketing
+- [ ] Meet the Instructors
+- [ ] Course Logistics
+- [ ] Course Roadmap
+- [ ] Assessment Information
+- [ ] Modern Marketers Toolkit
+- [ ] Course Value Proposition
 
 Slides are a xaringan presentation and are built to html and pdf using the Snakemake workflow management system.
 I also manage R's package dependencies with `renv`.
@@ -93,17 +103,17 @@ This will install all the packages we need. It may take a while.
 
 ## Suggested Citation (for the Module)
 
-Deer, Lachlan. 2022. Digital and Social Media Strategies: Course Introduction.
+Deer, Lachlan. 2023. Digital and Social Media Strategies: Course Introduction.
 Tilburg University.
-url = "https://github.com/tisem-digital-marketing/dsms-lecture-01-introduction"
+url = "https://github.com/deer-marketing-lab/dsms-uvt-2023"
 
 ## Suggested Citation (Template)
 
 ```{r, engine='out', eval = FALSE}
-@misc{deerdsms2022,
+@misc{dsms2023L01,
       title={"Digital and Social Media Strategies: Lecture 1 - Course Introduction"},
       author={Lachlan Deer},
-      year={2022},
-      url = "https://github.com/tisem-digital-marketing/dsms-lecture-01-introduction"
+      year={2023},
+      url = "https://github.com/deer-marketing-lab/dsms-uvt-2023"
 }
 ```
