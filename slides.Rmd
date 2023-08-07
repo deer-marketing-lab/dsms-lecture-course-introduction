@@ -28,9 +28,9 @@ class: font180
 
 * Meet your Instructors
 * Describe the logistical structure of the course
-* Explain what's needed in a modern Digital Marketer's toolkit
 * List the topic coverage in this course
 * Explain how you will be assessed
+* Explain what's needed in a modern Digital Marketer's toolkit
 
 ---
 class: inverse, center, middle 
@@ -383,6 +383,21 @@ class: font160
 
 * Office Hours
   * Sign up using links in syllabus
+
+---
+class: font160
+# Interaction with Peers and Instructors 
+
+
+```{r, echo = FALSE, fig.align = "center", out.width="80%"}
+url <- "https://www.nicepng.com/png/detail/204-2046406_obey-clipart-school-rule-school-rules-clipart.png"
+knitr::include_graphics(url)
+```
+
+Two sets of rules for *all* interactions: 
+
+* [Code of Conduct](https://tilburguniversity.instructure.com/courses/13430/pages/code-of-conduct?module_item_id=559023)
+* [Social Rules](https://tilburguniversity.instructure.com/courses/13430/pages/social-rules?module_item_id=559022)
 
 ---
 class: font140
@@ -850,6 +865,95 @@ class: font160
 * And... learning the tools can be boring
 
 **_Opinion_**: I think the upside far, far outweighs the bad.
+
+---
+class: inverse, center, middle
+
+# The Value Proposition
+
+---
+class: font160
+# The Value Proposition
+
+
+```{r, echo = FALSE, fig.align = "center", out.width="30%"}
+url <- "figs/takeoff.png"
+knitr::include_graphics(url)
+```
+
+After completing DSMS you can ...
+
+* Pose strategic questions important for digital markets
+* Analyze data using "Gold Standard" techniques to answer the question posed using `R`
+* Draw managerially relevant conclusion from digital marketing data
+* Read and draw insight from modern academic literature
+
+---
+class: font160
+# What this class is not ...
+
+
+```{r, echo = FALSE, fig.align = "center", out.width="30%"}
+url <- "https://clipart-library.com/img/1764150.gif"
+knitr::include_graphics(url)
+```
+
+* A class on writing "marketing strategy" documents
+* Crash course on Google Analytics or the like
+* An introduction to (social-) marketing dashboards
+* "Hand-wavey" marketing 
+* The "easy" elective
+
+.right[.font70[Gathered from previous student's expectations]]
+
+---
+# Your Task of the Week
+
+```{r, echo = FALSE, fig.align = "center", out.width="80%"}
+url <- "https://c4.wallpaperflare.com/wallpaper/123/563/761/meme-thinking-face-man-face-sketch-wallpaper-preview.jpg"
+knitr::include_graphics(url)
+```
+
+.center[.font150[**Decide if you are coming back next week**]]
+
+.center[.font150[**(and the next 14!)**]]
+
+---
+class: font150
+# Questions to help YOU Decide
+
+```{r, echo = FALSE, fig.align = "center", out.width="15%"}
+url <- "figs/questionmark.jpg"
+knitr::include_graphics(url)
+```
+
+Am I ...
+
+* Interested in Digital and Social Media Marketing? 
+* Willing to engage in class discussion?
+* Interested in reading 3-4 academic articles per week?
+* Interested in analyzing data to draw managerial insights?
+* In possession of (or willing to acquire) the required statistical tools? 
+* Willing to learn a new statistical software? 
+* A good team mate in assignments?
+* Willing to invest approx. 12 hours per week in this class?
+
+If yes to all of the above ... We hope to see you again!
+
+---
+class: font140
+# If We're Saying Goodbye
+
+```{r, echo = FALSE, fig.align = "center", out.width="70%"}
+url <- "https://i.kym-cdn.com/entries/icons/original/000/023/932/Screen_Shot_2017-09-18_at_3.07.05_PM.jpg"
+knitr::include_graphics(url)
+```
+
+If you are already on our Canvas site, **please fill out THIS form** 
+
+* So we can remove you ...
+* So you don't get added to groups for assignments
+* And get announcements etc from our course
 
 ---
 class:clear
