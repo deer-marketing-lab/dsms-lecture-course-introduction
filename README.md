@@ -1,15 +1,15 @@
 # Digital and Social Media Strategies: LECTURE NAME
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://www.tidyverse.org/lifecycle/#maturing)
-[![lifecycle](https://img.shields.io/badge/version-2022-red.svg)]()
+[![lifecycle](https://img.shields.io/badge/version-2023-red.svg)]()
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Meta-Information
 
 * Module Maintainer: Lachlan Deer (`@lachlandeer`)
-* Course: [Digital and Social Media Strategies](https://github.com/deer-marketing-lab/dsms)
+* Course: [Digital and Social Media Strategies](https://github.com/deer-marketing-lab/dsms-2023)
 * Institute: Dept of Marketing, Tilburg University
-* Current Version: [2023 edition](https://github.com/deer-marketing-lab/dsms-uvt-2023)
+* Current Version: [2023 edition](https://github.com/deer-marketing-lab/dsms-2023)
 
 ## Introduction
 
@@ -105,15 +105,15 @@ This will install all the packages we need. It may take a while.
 
 Deer, Lachlan. 2023. Digital and Social Media Strategies: Course Introduction.
 Tilburg University.
-url = "https://github.com/deer-marketing-lab/dsms-uvt-2023"
+url = "https://github.com/deer-marketing-lab/dsms-2023"
 
 ## Suggested Citation (Template)
 
 ```{r, engine='out', eval = FALSE}
 @misc{dsms2023L01,
-      title={"Digital and Social Media Strategies: Lecture 1 - Course Introduction"},
+      title={"Digital and Social Media Strategies: Course Introduction"},
       author={Lachlan Deer},
       year={2023},
-      url = "https://github.com/deer-marketing-lab/dsms-uvt-2023"
+      url = "https://github.com/deer-marketing-lab/dsms-lecture-course-introduction"
 }
 ```
