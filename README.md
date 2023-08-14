@@ -1,4 +1,4 @@
-# Digital and Social Media Strategies: LECTURE NAME
+# Digital and Social Media Strategies: Course Introduction
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 [![lifecycle](https://img.shields.io/badge/version-2023-red.svg)]()
