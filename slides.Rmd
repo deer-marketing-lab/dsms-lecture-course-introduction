@@ -984,7 +984,7 @@ url <- "https://i.kym-cdn.com/entries/icons/original/000/023/932/Screen_Shot_201
 knitr::include_graphics(url)
 ```
 
-If you are already on our Canvas site, **please fill out THIS form** 
+If you are already on our Canvas site, **please fill out [THIS](https://forms.gle/LZyNWhyd2UrQGnDj6) form** 
 
 * So we can remove you ...
 * So you don't get added to groups for assignments
