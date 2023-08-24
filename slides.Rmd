@@ -85,7 +85,7 @@ knitr::include_graphics(url)
 
 Managers propose **strategic questions** that need to be answered 
 
-* Need be answered $\implies$ can **quantified with a number**
+* Needs be answered $\implies$ can be **quantified with a number**
 * And the number needs to be **credibly constructed** ...
 * ... from **correct statistical analysis** of the **right data**
 
@@ -367,7 +367,7 @@ How to get the most value out of labs?
 How to enroll in labs? 
 
 *  **On Canvas** 
-* Deadline is XXX
+* Deadline is September 8th at 12:00
 
 
 ---
@@ -693,7 +693,7 @@ This class is very new (2022 was the first version "as-is")
 
 * **If you did not complete the class in 2022**:
   * Can roll over ALL assignment grades and only sit the exam
-    * Email the course email address by XX if you want this applied 
+    * Email the course email address by September 8th if you want this applied 
   * OR Can do all assessment tasks in 2023. 
 
 * **If you did not complete the class before 2022**:
