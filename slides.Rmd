@@ -266,7 +266,7 @@ class: font140
 # Lectures  
 
 ```{r, echo = FALSE, fig.align = "center", out.width="35%"}
-url <- "https://polimdo.ac.id/wp-content/uploads/2022/03/kisspng-lecture-clip-art-5ada0a0e3d7959.1665428415242388622518.png"
+url <- "figs/lecture.png"
 knitr::include_graphics(url)
 ```
 
