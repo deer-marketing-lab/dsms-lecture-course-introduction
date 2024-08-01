@@ -7,9 +7,9 @@
 ## Meta-Information
 
 * Module Maintainer: Lachlan Deer (`@lachlandeer`)
-* Course: [Digital and Social Media Strategies](https://github.com/deer-marketing-lab/dsms-2023)
+* Course: [Digital and Social Media Strategies](https://github.com/deer-marketing-lab/2024-dsms)
 * Institute: Dept of Marketing, Tilburg University
-* Current Version: [2023 edition](https://github.com/deer-marketing-lab/dsms-2023)
+* Current Version: [2024 edition](https://github.com/deer-marketing-lab/2024-dsms)
 
 ## Introduction
 
@@ -23,6 +23,7 @@ Topic Coverage:
 - [ ] Course Roadmap
 - [ ] Assessment Information
 - [ ] Modern Marketers Toolkit
+- [ ] Example of Course Content
 - [ ] Course Value Proposition
 
 Slides are a xaringan presentation and are built to html and pdf using the Snakemake workflow management system.
@@ -103,17 +104,17 @@ This will install all the packages we need. It may take a while.
 
 ## Suggested Citation (for the Module)
 
-Deer, Lachlan. 2023. Digital and Social Media Strategies: Course Introduction.
+Deer, Lachlan. 2024. Digital and Social Media Strategies: Course Introduction.
 Tilburg University.
 url = "https://github.com/deer-marketing-lab/dsms-2023"
 
 ## Suggested Citation (Template)
 
 ```{r, engine='out', eval = FALSE}
-@misc{dsms2023L01,
+@misc{dsms2024L01,
       title={"Digital and Social Media Strategies: Course Introduction"},
       author={Lachlan Deer},
-      year={2023},
+      year={2024},
       url = "https://github.com/deer-marketing-lab/dsms-lecture-course-introduction"
 }
 ```
